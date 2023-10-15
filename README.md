@@ -1,0 +1,2 @@
+# CGPA_SGPA_Calculator
+A CGPA (Cumulative Grade Point Average) and SGPA (Semester Grade Point Average) calculator is a tool used in educational institutions, especially in colleges and universities, to determine a student's academic performance and level of achievement. These calculators are used to compute the average grades and performance points obtained by a student over a specific period, either throughout their academic career (CGPA) or in a particular semester (SGPA).
